@@ -7,8 +7,8 @@ This repository automatically fetches the MMI value, stores the history, and gen
 
 ## Latest MMI Value
 
-**56.01** - **Greed**
-<small>Last Updated: 2026-05-15 04:12 UTC</small>
+**61.80** - **Greed**
+<small>Last Updated: 2026-05-15 07:51 UTC</small>
 
 ## MMI Trend (Last 30 Days)
 
